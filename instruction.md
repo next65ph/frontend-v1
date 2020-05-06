@@ -12,4 +12,4 @@ Test Challenge:
     - CSS framework like bootstrap, materialCSS and etc.     
     - PHP framework like CMS like Wordpress, CakePHP and Laravel,
 7. Try to use webpack or some task runner in this test for ES6/7/8 javascript and preprocessor CSS like SASS/LESS.
-8. Use your private github to deploy
+8. Use your personal github to deploy
